@@ -27,16 +27,16 @@
             <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>출납원</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>운동선수</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>곡예사</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>은퇴</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>은퇴자</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>NONE</LocID>                            <Text>없음</Text>  </GameDBLocalizedString>
             
             <!-- Perks staff -->
-            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>좋은 상사</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>훌륭한 지도자</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>매일 아침 감독하는 직원들의 만족도를 향상시켜줍니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER</LocID>               <Text>빠른 학습자</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER_DESCRIPTION</LocID>   <Text>스킬레벨이 더 빨리 오릅니다.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>스파르탄</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>검소주의자</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_SPARTAN_DESCRIPTION</LocID>   		<Text>모든 욕구가 천천히 감소합니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SCHOLAR</LocID>              		<Text>학자</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_SCHOLAR_DESCRIPTION</LocID>   		<Text>여가 시간에 공부합니다.</Text>  </GameDBLocalizedString>
@@ -56,9 +56,9 @@
             <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>신발이 매우 더럽군요. 타일이 더러워 집니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES</LocID>        <Text>실전 진단</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES_DESCRIPTION</LocID><Text>최종 진단에 성공하면 진단 스킬에 20% 경험치 보너스를 받습니다.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>Restzistance</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>요령의 달인</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE_DESCRIPTION</LocID>   <Text>휴식 값이 천천이 줄어듭니다.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT</LocID>               <Text>Fresh parent</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT</LocID>               <Text>육아 초보</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FRESH_PARENT_DESCRIPTION</LocID>   <Text>휴식 값이 빠르게 줄어듭니다.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE</LocID>                 <Text>세균 혐오</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_GERMAPHOBE_DESCRIPTION</LocID>     <Text>보통의 3배 더 자주 손을 씻습니다.</Text></GameDBLocalizedString>
@@ -68,21 +68,21 @@
             <GameDBLocalizedString>      <LocID>PERK_COMFORTING_DESCRIPTION</LocID>     <Text>검사 받는 중 불편함 값이 늘어나지 않습니다.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS</LocID>          <Text>진단의 천재</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DIAGNOSTIC_GENIUS_DESCRIPTION</LocID><Text>진단에 대한 천부적 재능!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD</LocID>                 <Text>일찍일어나는 새</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD</LocID>                 <Text>아침형 인간</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_EARLY_BIRD_DESCRIPTION</LocID>     <Text>낮에 더 효율적으로 일합니다.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL</LocID>                  <Text>밤 올빼미</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL</LocID>                  <Text>올빼미족</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_NIGHT_OWL_DESCRIPTION</LocID>      <Text>밤에 더 효율적으로 일합니다.</Text></GameDBLocalizedString>
 
             <!--  -->
-            <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>기쁨을 주는 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_PLEASANT</LocID>                   <Text>예의바름</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PLEASANT_DESCRIPTION</LocID>       <Text>환자와 접촉 후 환자에게 "좋은 직원" 버프를 줍니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>불쾌한 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT</LocID>                 <Text>무례함</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_UNPLEASANT_DESCRIPTION</LocID>     <Text>환자와 접촉 후 환자에게 "나쁜 직원" 디버프를 줍니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET</LocID>                 <Text>깨끗한 발</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_CLEAN_FEET_DESCRIPTION</LocID>     <Text>아주 깨끗한 신발이군요. 바닥을 더럽히지 않습니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>성실한 일꾼</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER</LocID>                <Text>근면한 일꾼</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_HARD_WORKER_DESCRIPTION</LocID>    <Text>휴식 시간을 가지지 않습니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LOYAL</LocID>                      <Text>충성스러운 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_LOYAL</LocID>                      <Text>충성스러움</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_LOYAL_DESCRIPTION</LocID>          <Text>레벨이 오를 때 오르는 급여에서 20% 더 적게 받습니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DEPRESSED</LocID>                  <Text>우울함</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DEPRESSED_DESCRIPTION</LocID>      <Text>"우울함" 디버프를 자신에게 겁니다.</Text>  </GameDBLocalizedString>
@@ -90,25 +90,25 @@
             <GameDBLocalizedString>      <LocID>PERK_HEDONIST_DESCRIPTION</LocID>       <Text>음식을 즐기는 데 2배 더 많은 시간을 할애합니다..</Text>  </GameDBLocalizedString>
             
             <!-- Perks patient -->
-            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE</LocID>                <Text>협력가</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE</LocID>                <Text>협동적</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_COOPERATIVE_DESCRIPTION</LocID>    <Text>의료 절차 수행이 빠릅니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE</LocID>                 <Text>공격적 독선가</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>의료 절차  느립니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>영감을 주는 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE</LocID>                 <Text>독선적</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_AGGRESSIVE_DESCRIPTION</LocID>     <Text>의료 절차가  느립니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_INSPIRATOR</LocID>              	<Text>격려자</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_INSPIRATOR_DESCRIPTION</LocID>   	<Text>주변 사람들의 기분을 향상시킵니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>부끄러움을 모르는 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHAMELESS</LocID>              	<Text>파렴치한</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_SHAMELESS_DESCRIPTION</LocID>   	<Text>민감한 증상을 쉽게 알려줍니다.</Text>  </GameDBLocalizedString>
-           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>의학 지식인</Text>  </GameDBLocalizedString>
+           	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION</LocID>          <Text>의료 교육경험</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_MEDICAL_EDUCATION_DESCRIPTION</LocID><Text>숨겨진 증상을 밝힐 때 의사를 돕습니다.</Text>  </GameDBLocalizedString>
-        	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER</LocID>              	<Text>관광객</Text>  </GameDBLocalizedString>
+        	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER</LocID>              	<Text>외국인</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_FOREIGNER_DESCRIPTION</LocID>  	<Text>외국어를 구사합니다. 의사소통에 시간이 걸립니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>짜증나게 하는 자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR</LocID>                <Text>의욕 저하자</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DEMOTIVATOR_DESCRIPTION</LocID>    <Text>주변 사람들의 기분을 나쁘게 합니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SLOW</LocID>                		<Text>느림보</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SLOW_DESCRIPTION</LocID>     		<Text>천천히 이동합니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_FAST</LocID>                		<Text>토깽이</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_FAST</LocID>                		<Text>빠릿함</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FAST_DESCRIPTION</LocID>     		<Text>더 빨리 이동합니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>부끄럼쟁이</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_SHY</LocID>            			<Text>내성적임</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_SHY_DESCRIPTION</LocID>			<Text>민감한 증상을 숨기려 합니다.</Text>  </GameDBLocalizedString>
 
             <!--  -->
@@ -212,8 +212,8 @@
             <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_LUNCH</LocID>        <Text>환자 점심 식사</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_STAFF_LUNCH</LocID>                        <Text>직원 점심 식사</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_DOCTORS_ROUNDS</LocID>                     <Text>의사 회진</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_MORNING</LocID>                <Text>아침 약</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_EVENING</LocID>                <Text>저녁 약</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_MORNING</LocID>                <Text>아침 투약</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_NURSE_PILLS_EVENING</LocID>                <Text>저녁 투약</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_PATIENTS_PILLS_MORNING</LocID>             <Text>아침 약</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_PATIENTS_PILLS_EVENING</LocID>             <Text>저녁 약</Text>  </GameDBLocalizedString>
 
